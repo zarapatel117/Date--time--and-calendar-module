@@ -11,4 +11,4 @@ def getrandomdate(sd,ed):
     randomdate=time.strftime(dateformat, time.localtime(randomtime))
     return randomdate
 print("randomdate=",getrandomdate("1/1/2016","12/2/2018"))
-
+x
